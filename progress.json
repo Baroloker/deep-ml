@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T11:35:13.308Z",
+  "generated_at": "2026-09-29T02:39:56.120Z",
   "items": {
     "problem:3": {
       "kind": "problem",
@@ -122,6 +122,19 @@
       "path": "math/0008-vector-norms-and-linear-independence",
       "first_solved_at": "2026-09-28T11:35:10.927Z",
       "last_pushed_at": "2026-09-28T11:35:10.927Z"
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-09-29T02:39:53.788Z",
+      "last_pushed_at": "2026-09-29T02:39:53.788Z",
+      "language": "python",
+      "lines": 15
     }
   }
 }
